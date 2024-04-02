@@ -15,8 +15,8 @@ MonoBehaviour:
   question: "C#\uC5D0\uC11C \"Hello World\"\uB97C \uCD9C\uB825\uD558\uB294 \uC62C\uBC14\uB978
     \uAD6C\uBB38\uC740 \uBB34\uC5C7\uC785\uB2C8\uAE4C?"
   answers:
-  - a
-  - b
-  - b
-  - b
-  answerIndex: 2
+  - System.out.prinln("Hello World");
+  - Console.WriteLine("Hello World");
+  - cout << "Hello World";
+  - print ("Hello World");
+  correctAnswerIndex: 1

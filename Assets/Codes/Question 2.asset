@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bd71b69e611e614d8c9959164642896, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: "C# \uCF54\uB4DC\uC5D0 COMMENTS\uB97C \uC5B4\uB5BB\uAC8C \uC0BD\uC785\uD558\uB098\uC694?"
+  question: "\uD14D\uC2A4\uD2B8\uB97C \uC800\uC7A5\uD574\uC57C \uD558\uB294 \uBCC0\uC218\uB97C
+    \uB9CC\uB4DC\uB294 \uB370 \uC0AC\uC6A9\uB418\uB294 \uB370\uC774\uD130 \uC720\uD615\uC740
+    \uBB34\uC5C7\uC785\uB2C8\uAE4C??"
+  answers:
+  - str
+  - Txt
+  - myString
+  - string
+  correctAnswerIndex: 3
