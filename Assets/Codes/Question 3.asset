@@ -19,4 +19,4 @@ MonoBehaviour:
   - double x = 5;
   - num x = 5
   - int x = 5;
-  correctAnswerIndex: 0
+  correctAnswerIndex: 3
